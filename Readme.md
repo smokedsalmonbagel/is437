@@ -3,10 +3,6 @@
 <br>
 IS437 is a semester-long software development project focusing on technical skills used for data science.  Throughout the course students will plan and develop a data driven web application which is ready to deploy.  The course aims to re-cap Python, SQL but also introduce higher level concepts such as object oriented design and web application architecture.  Collaboration tools like Github and Slack will be used for project management.  Students will deliver a software application suitable for a building a Github portfolio at the end of the semester.<br>
 
-#### Delivery / schedule
-The course will meet on Zoom 2 times a week.  All students must attend the live sessions with cameras on.
-
-
 
 #### Grading 
 
