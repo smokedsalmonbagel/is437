@@ -19,7 +19,7 @@ Percent | Content
 20%  |  Final project grade
 
 
-VQLA = Video, Quiz, Lecture (driving session), Assignment<br>
+VQLA = Video, Quiz, Live Session (driving session), Assignment<br>
 GM = Group meeting
 
 Week | Content
