@@ -1,0 +1,35 @@
+- About course
+    - Data driven web app (why)
+    - Combine skills into a presentable Github project
+    - Format - see <a href="Readme.md">Readme</a>
+- Data science / Analytics / Engineering
+    - What is the difference?
+- Intros
+    - Name, class
+    - Where have you used Python / other languages
+    - Mac or PC? (Or Linux)
+- About me
+    - Data driven web applications since 2008 (PHP/MySQL)
+    - 2010 Teaching IS237 / IS437 / IS400 / IS426
+    - 2015 Teaching IA626 / IA628 / IA503 / IS437
+    - IOT cellular prototyping
+    - HLDV App prototype
+    - Data engineering consulting
+    - Remote work
+- Start Recording -----
+- Why Python IS237 - VB -> C# -> Python
+    - Used in Data science / Analytics / Engineering
+    - App development
+    - Excellent support
+- Tasks today
+    - Python - run from powershell / terminal
+    - Python - run jupyter lab
+    - Run jupyterlab as module 
+    - pip- for python packages
+    - Github account
+    - Github client
+    - Slack
+    - Next week
+    
+    
+    
