@@ -30,7 +30,7 @@ t.forward(100)
 n=10
 while n <= 40:
     t.circle(n)
-    n = n+1
+    n = n+5
     
     
    
