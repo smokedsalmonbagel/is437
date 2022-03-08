@@ -44,7 +44,7 @@ Week | Content
 In addition to the rubric above 20% of your course grade will be based on 4 status check in meetings.  Your grade for each meeting is based on meeting preperation and attendence. <br>
 Schedule of meetings:<br><br>
 
-Meeting number |   Date   | Time | Preperation / purpose
+Meeting number |   Date   | Time | Preparation / purpose
 -------- | -------- | ------ | -----------------
 GM1  | week 10 (3-7)  | 10-20 min | Project topic selection.  Outline of application purpose (use cases), ER diagram, relational diagram, Github repo, readme.md (possible followup meetings - project topic and ER diagram must be set before break)
 GM2  | week 12 (3-28)  | 15 min | Database init SQL, working user login, main menu, screen diagram
