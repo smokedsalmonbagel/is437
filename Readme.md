@@ -11,7 +11,7 @@ After class Tuesday / Thursday and by appointment.
 
 Percent | Content
 ---- | -------
-25%  |  Attendence / participation 
+25%  |  Attendance / participation 
 20%  |  Assignments
 15%  |  Topic review quizzes
 20%  |  Final project meetings
@@ -47,6 +47,6 @@ Schedule of meetings:<br><br>
 Meeting number |   Date   | Time | Preparation / purpose
 -------- | -------- | ------ | -----------------
 GM1  | week 10 (3-7)  | 10-20 min | Project topic selection.  Outline of application purpose (use cases), ER diagram, relational diagram, Github repo, readme.md (possible followup meetings - project topic and ER diagram must be set before break)
-GM2  | week 12 (3-28)  | 15 min | Database init SQL, working user login, main menu, screen diagram
+GM2  | week 12 (3-28)  | 15 min | Database init SQL, working user pages, main menu, screen diagram / list
 GM3  | week 14 (4-11)  | 15 min | 2-3 additional object pages, data tracking, outline of project specific SQL queries
 GM4  | week 16 (4-25)  | 20 min | Final project overview, github readme.md, demonstration
